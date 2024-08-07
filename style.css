@@ -3,7 +3,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: crimson;
+    background: rgb(122, 129, 219);
     color: white;
     font-family: sans-serif;
 }
